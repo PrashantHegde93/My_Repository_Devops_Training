@@ -1,0 +1,9 @@
+This is a file for demo
+yo yo yo y
+
+echo "# My_Repository_Devops_Training" >> Prashant.txt
+git init
+git add Prashant.txt
+git commit -m "first commit"
+git remote add origin https://github.com/PrashantHegde93/My_Repository_Devops_Training.git
+git push -u origin master
